@@ -4,7 +4,7 @@
 
 Submitted by: **RPrasad**
 
-Time spent: **2** hours spent in total
+Time spent: **12** hours spent in total
 
 ## User Stories
 
